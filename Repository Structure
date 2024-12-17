@@ -1,28 +1,39 @@
-# Repository Structure
-
-```
-19parkerman84/
+19ParkerMan84-Training/
 ├── README.md
-├── website/
-│   ├── index.html
-│   ├── css/
-│   └── js/
-├── research/
-│   ├── affective-domain/
-│   │   ├── emotional-intelligence/
-│   │   ├── psychological-safety/
-│   │   └── behavioral-modification/
-│   ├── case-studies/
-│   └── implementation-guides/
-├── training-materials/
-│   ├── modules/
-│   ├── assessments/
-│   └── resources/
-└── docs/
-    ├── guides/
-    └── references/
-```
+├── index.html
+├── css/
+│   ├── styles.css
+│   ├── components.css
+│   └── utilities.css
+├── js/
+│   ├── main.js
+│   ├── form-handler.js
+│   ├── calendar.js
+│   └── news-fetcher.js
+├── components/
+│   ├── nav.html
+│   ├── footer.html
+│   ├── gallery.html
+│   └── testimonials.html
+├── pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── events.html
+│   └── blog.html
+└── assets/
+    └── images/r repository
 
+# Clone your repository
+git clone https://github.com/19Parkerman84/19ParkerMan84-Training.git
+cd 19ParkerMan84-Training
+
+# Create directories
+mkdir css js components pages assets assets/images
+
+# Create necessary files
+touch index.html
+touch css/styles.css css/components.css css/utilities.css
+touch js/main.js js/form-handler.js js/calendar.js js/news-fetcher.js
 # Key Research Papers and Resources to Include:
 
 1. Emotional Intelligence in Nuclear Operations
