@@ -1,0 +1,56 @@
+# Repository Structure
+
+```
+19parkerman84/
+├── README.md
+├── website/
+│   ├── index.html
+│   ├── css/
+│   └── js/
+├── research/
+│   ├── affective-domain/
+│   │   ├── emotional-intelligence/
+│   │   ├── psychological-safety/
+│   │   └── behavioral-modification/
+│   ├── case-studies/
+│   └── implementation-guides/
+├── training-materials/
+│   ├── modules/
+│   ├── assessments/
+│   └── resources/
+└── docs/
+    ├── guides/
+    └── references/
+```
+
+# Key Research Papers and Resources to Include:
+
+1. Emotional Intelligence in Nuclear Operations
+- INPO Guidelines for Safety Culture Assessment
+- NRC Safety Culture Policy Statement
+- IAEA Safety Culture Framework
+- Human Performance in Nuclear Safety
+
+2. Psychological Safety Research
+- Just Culture Implementation Guidelines
+- Error Reporting Systems Analysis
+- Communication in High-Reliability Organizations
+- Trust-Building in Nuclear Operations
+
+3. Behavioral Modification Programs
+- Safety Behavior Analysis Methods
+- Cultural Change Management
+- Leadership Impact on Safety Culture
+- Sustainable Safety Programs
+
+4. Assessment Tools
+- Safety Culture Maturity Models
+- Behavioral Anchored Rating Scales
+- Climate Survey Templates
+- Performance Indicators
+
+5. Implementation Guides
+- Program Deployment Strategies
+- Training Module Templates
+- Evaluation Frameworks
+- Success Metrics
