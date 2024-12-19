@@ -1,0 +1,8 @@
+# Ensure you're in the repository directory
+cd 19ParkerMan84-Training
+
+# Create the research directory for documentation
+mkdir -p research/{emotional-intelligence,psychological-safety,behavioral-mod,assessment-tools,implementation-guides}
+
+# Create documentation directories
+mkdir -p docs/{templates,guides,case-studies}
